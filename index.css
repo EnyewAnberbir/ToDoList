@@ -1,0 +1,74 @@
+#id{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    text-align: center;
+}
+#inputed{
+    width: 60rem;
+    margin-left: 4rem;
+    height: 3rem;
+    text-align: center;
+    font-size: larger;
+}
+body{
+    margin: 8rem;
+    background-image: url("back.jpg")
+}
+button{
+    width: 8rem;
+    height : 3.5rem;
+    font-size: 1.5rem;
+    
+}
+#box{
+    background-color: lightgray;
+    display: grid;
+    grid-template-columns: 100px 600px 20px;
+    width: 53rem;
+    height: 4rem;
+    margin-left: 7rem;  
+    margin-bottom: 1rem;
+    border-radius: 2rem;
+
+}
+#box:hover{
+    height: 5rem;
+}
+#div2{
+    text-align: center;
+}
+#checkbox{
+    height: 2rem;
+    width: 2rem;
+    margin-top: 0.5rem;
+    margin-left: 3rem;
+}
+#checkbox:hover{
+    margin-top: 1rem;
+}
+#title{
+    color: beige;
+    font-size: 3rem;
+    margin-top: 1rem;
+    margin-bottom: 5rem;
+    text-align: center;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+    
+    
+}
+#but{
+    margin-top: 0.5rem;
+}
+#but:hover{
+    margin-top: 1rem;
+}
+#texted{
+    font-size: 1.5rem;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+
+
+
+
+

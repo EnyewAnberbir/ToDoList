@@ -1,2 +1,4 @@
 # ToDoList
-here is to do list website using HTML, CSS AND JavaScript
+here is To-Do List website using HTML, CSS AND JavaScript
+
+by Software Enginner Enyew Anberbir
